@@ -1,0 +1,83 @@
+@font-face {
+    font-family: 'playfair_display_regular';
+    src: url('playfairdisplay-variablefont_wght-webfont.woff2') format('woff2'),
+         url('playfairdisplay-variablefont_wght-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'rubik_doodle_shadow_regular';
+    src: url('rubikdoodleshadow-regular-webfont.woff2') format('woff2'),
+         url('rubikdoodleshadow-regular-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'long_cang_regular';
+    src: url('longcang-regular-webfont.woff2') format('woff2'),
+         url('longcang-regular-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+body
+{
+    font-family: 'playfair_display_regular', Arial, sans-serif;
+    font-size: 40px;
+    text-align: center;
+    background-color: #f9e6fa !important;
+} 
+h2
+{
+    text-align: center;
+    font-family: 'playfair_display_regular', Arial, serif;
+    font-size: 40px;
+}
+p
+{
+    font-family: 'playfair_display_regular', Arial, serif;
+    text-align: center;
+    font-size: 30px;
+}
+.quote
+{
+    text-align: center;
+    font-size: 40px;
+    font-family: 'long_cang_regular', Arial, sans-serif;
+}
+.source
+{
+    text-align: center;
+    font-size: 40px;
+    font-style: italic;
+    font-family: 'long_cang_regular', Arial, sans-serif;
+}
+.time
+{
+    text-align: center; 
+    font-size: 50px;
+    font-family: 'rubik_doodle_shadow_regular', Arial, sans-serif;
+    font-weight: 900;
+}
+.col-md-2
+{
+    text-align: center; 
+    font-size: 50px;
+    font-family: 'rubik_doodle_shadow_regular', Arial, sans-serif;
+}
+footer
+{
+    text-align: center;
+    font-size: 15px !important;
+    font-family: 'playfair_display_regular', Arial, serif;
+}
+a
+{
+    color: black !important;
+    font-style: normal !important;
+} 
+a:hover
+{
+    color: red !important;
+}
