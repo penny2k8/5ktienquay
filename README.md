@@ -1,7 +1,7 @@
 # ms-kate-married-when
 This is a webpage that I specifically created to countdown to my teacher's wedding <br>
 Read the newest changelog [here](https://github.com/penny2k8/ms-kate-married-when/releases) <br>
-(Latest changes: 02/01/2024)
+(Latest changes: 06/01/2024)
 
 ### Timer
 The timer I just created on my own, based on past experiences
