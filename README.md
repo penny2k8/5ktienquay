@@ -4,7 +4,7 @@ Read the newest changelog [here](https://github.com/penny2k8/ms-kate-married-whe
 (Latest changes: 06/01/2024)
 
 ### Timer
-The timer I just created on my own, based on past experiences
+I just created the timer on my own, based on past experiences
 
 ### Quote
 The quote on the webpage is randomly generated from a pool of 16 quotes (RNG weight have been removed, starting from update **0.a2.02**). <br> 

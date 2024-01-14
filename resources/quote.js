@@ -65,7 +65,8 @@ const quotes = [
         source: "—Nicholas Sparks - A Walk to Remember",
     },
 ]
-var rng = new RNG();
+var d = new Date('Nov 1, 2024').getTime();
+var rng = new RNG(d*Math.random());
 
 const gimmeQuotes = function(){
     n = rng.random(0,15);
